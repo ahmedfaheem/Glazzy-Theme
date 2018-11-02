@@ -7,9 +7,7 @@ Based on [Template Files](https://github.com/ahmedfaheem/Glazzy-Theme).
 Review : [Glazzy Demo](https://ahmedfaheem.github.io/Glazzy-Theme/)
 
 
-```markdown
-- Bulleted
-- List 
+
 
 
 
@@ -18,26 +16,12 @@ Review : [Glazzy Demo](https://ahmedfaheem.github.io/Glazzy-Theme/)
 1-Minify images
 2-Minify javascript files
 3-Minify stylesheets
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### License
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahmedfaheem/Glazzy-Theme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[MIT](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/License).
 
 ### Support or Contact
+ Copyright (c) 2018 Ahmed Faheem  [ahmedfaheem499@gmail.com](mailto:ahmedfaheem499@gmail.com)  github.com/ahmedfaheem
+ [FaceBook Account](https://www.facebook.com/A7medfaheem)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

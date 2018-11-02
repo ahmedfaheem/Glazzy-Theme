@@ -11,11 +11,11 @@ Review : [Glazzy Demo](https://ahmedfaheem.github.io/Glazzy-Theme/)
 
 
 
- Build:
+## Build:
 
-1-Minify images
-2-Minify javascript files
-3-Minify stylesheets
+- Minify images
+- Minify javascript files
+- Minify stylesheets
 
 ### License
 

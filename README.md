@@ -1,5 +1,5 @@
 # Glazzy Template Version: 1.0
-## Depends on  BootStrap Library
+## Depends on  Bootstrap Library
 This Template For Freelancers To Define Themselves And Display Their Works.
 
 Based on [Template Files](https://github.com/ahmedfaheem/Glazzy-Theme).

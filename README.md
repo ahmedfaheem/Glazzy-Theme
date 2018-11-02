@@ -47,5 +47,5 @@ Review : [Glazzy Demo](https://ahmedfaheem.github.io/Glazzy-Theme/)
 ### Support or Contact
  Copyright (c) 2018 Ahmed Faheem  mailtoahmedfaheem499@gmail.com github.com/ahmedfaheem
  
- # [Facebook Account](https://www.facebook.com/A7medfaheem)
+ ### [Facebook Account](https://www.facebook.com/A7medfaheem)
 

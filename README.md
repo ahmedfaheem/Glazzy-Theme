@@ -4,7 +4,7 @@ This Template For Freelancers To Define Themselves And Display Their Works.
 
 Based on [Template Files](https://github.com/ahmedfaheem/Glazzy-Theme).
 
-[PSD File](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/psd%20file.zip).
+Download PSD: [PSD File](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/psd%20file.zip).
 
 Review : [Glazzy Demo](https://ahmedfaheem.github.io/Glazzy-Theme/)
 

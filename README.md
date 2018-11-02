@@ -3,16 +3,17 @@
 This Template For Freelancers To Define Themselves And Display Their Works.
 
 Based on [Template Files](https://github.com/ahmedfaheem/Glazzy-Theme).
-Based on [PSD File](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/psd%20file.zip).
+
 Review : [Glazzy Demo](https://ahmedfaheem.github.io/Glazzy-Theme/)
 
 ![Glazzy Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/glazzy-image.png)
 
 ##  Photos of Site Pages
-![About Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/glazzy-image.png)
-![Work Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/glazzy-image.png)
-![Labs Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/glazzy-image.png)
-![Contact Us Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/glazzy-image.png)
+![About Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/images/Photos-of-Site-Pages/about.png)
+![Work Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/images/Photos-of-Site-Pages/work.png)
+![Labs Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/images/Photos-of-Site-Pages/labs.png)
+![Contact Us Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/images/Photos-of-Site-Pages/contact.png)
+[PSD File](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/psd%20file.zip).
 
 ## Content:
 1. CSS Foder

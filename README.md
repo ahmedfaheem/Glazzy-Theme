@@ -2,7 +2,7 @@
 ## Depends on  Bootstrap Library
 This Template For Freelancers To Define Themselves And Display Their Works.
 
-Based on [Template Files](https://github.com/ahmedfaheem/Glazzy-Theme).
+Download Site: [Download Glazzy Template](http://www.glazzytemplate.tk).
 
 Download PSD: [PSD File](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/psd%20file.zip).
 

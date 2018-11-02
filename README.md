@@ -3,10 +3,16 @@
 This Template For Freelancers To Define Themselves And Display Their Works.
 
 Based on [Template Files](https://github.com/ahmedfaheem/Glazzy-Theme).
-
+Based on [PSD File](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/psd%20file.zip).
 Review : [Glazzy Demo](https://ahmedfaheem.github.io/Glazzy-Theme/)
 
 ![Glazzy Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/glazzy-image.png)
+
+##  Photos of Site Pages
+![About Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/glazzy-image.png)
+![Work Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/glazzy-image.png)
+![Labs Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/glazzy-image.png)
+![Contact Us Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/glazzy-image.png)
 
 ## Content:
 1. CSS Foder
@@ -24,7 +30,7 @@ Review : [Glazzy Demo](https://ahmedfaheem.github.io/Glazzy-Theme/)
      - popper     > popper.min.js
      - wow        > wow.min.js
      
-3. Web Fonts
+3. Web Fonts 
 
 4. License
 
@@ -32,7 +38,13 @@ Review : [Glazzy Demo](https://ahmedfaheem.github.io/Glazzy-Theme/)
 
 6. logo.ico    
     
-    
+ ## Languages and libraries  
+ - Html
+ - Css
+ - Bootstrap
+ - jquery
+ - Wow js
+ 
     
 ## Build:
 

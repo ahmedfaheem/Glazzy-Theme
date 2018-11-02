@@ -6,7 +6,7 @@ Based on [Template Files](https://github.com/ahmedfaheem/Glazzy-Theme).
 
 Review : [Glazzy Demo](https://ahmedfaheem.github.io/Glazzy-Theme/)
 
-
+![Glazzy Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/glazzy-image.png)
 
 
 

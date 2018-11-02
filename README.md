@@ -1,17 +1,23 @@
-## Welcome to GitHub Pages
+# Glazzy Template
+## Depends on  BootStrap Library
+This Template For Freelancers To Define Themselves And Display Their Works.
 
-You can use the [editor on GitHub](https://github.com/ahmedfaheem/Glazzy-Theme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Based on [Template Files](https://github.com/ahmedfaheem/Glazzy-Theme).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Review : [Glazzy Demo](https://ahmedfaheem.github.io/Glazzy-Theme/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+- Bulleted
+- List 
 
-# Header 1
+
+
+ Build:
+
+1-Minify images
+2-Minify javascript files
+3-Minify stylesheets
 ## Header 2
 ### Header 3
 

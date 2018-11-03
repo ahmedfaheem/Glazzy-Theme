@@ -13,12 +13,20 @@
   <link rel="icon" href="logo.ico">
   <title>Glazzy</title>
     
+    <script>
+      
+    $('.section-labs').hide();
+    $('.section-work').hide();
+    $('.section-contact').hide();
+    new WOW().init();
+   </script>
+  
   <style>
     ::-webkit-scrollbar {width: 6px;cursor: auto}
     ::-webkit-scrollbar-track {background: rgb(27, 17, 42); }
     ::-webkit-scrollbar-thumb {background:transparent; }
     ::-webkit-scrollbar-thumb:hover {background: rgba(255, 75, 168,.75); }
-    </style>
+  </style>
     
 </head>
     
@@ -432,14 +440,7 @@
   <script src="js/jquery.nicescroll.js"></script>
   <script src="js/plugin.js"></script>
   <script src="js/wow.min.js"></script>
-  <script>
-      
-    $('.section-labs').hide();
-    $('.section-work').hide();
-    $('.section-contact').hide();
-    new WOW().init();
-  </script>
-    
+  
 </body>
 
 </html>
